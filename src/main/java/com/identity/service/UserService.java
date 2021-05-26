@@ -49,7 +49,6 @@ public class UserService implements UserDetailsService {
                 user
         );
         confirmationTokenService.saveConfirmationToken(confirmationToken);
-        // TODO: Send Email
         return token;
     }
 
