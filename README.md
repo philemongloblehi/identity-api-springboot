@@ -14,11 +14,11 @@ Complete login registration backend system using Spring Boot.
 ![Screenshot Diagram](https://user-images.githubusercontent.com/40702606/104789980-15581a00-578e-11eb-998d-30f2e6a9f461.png)
 
 ## Email verification link with expiry
-![Screenshot Email](https://raw.githubusercontent.com/philemongloblehi/identity-api-springboot/master/email.png)
+![Screenshot Email](https://raw.githubusercontent.com/philemongloblehi/identity-api-springboot/master/images/email.png)
 
 ## Example requests
 ### Postman
-![Screenshot Postman](https://raw.githubusercontent.com/philemongloblehi/identity-api-springboot/master/postman.png)
+![Screenshot Postman](https://raw.githubusercontent.com/philemongloblehi/identity-api-springboot/master/images/postman.png)
 
 ### CURL
 ```
